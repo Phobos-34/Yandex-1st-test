@@ -1,0 +1,14 @@
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\bin\Debug\net8.0\Yandex test.exe
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\bin\Debug\net8.0\Yandex test.deps.json
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\bin\Debug\net8.0\Yandex test.runtimeconfig.json
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\bin\Debug\net8.0\Yandex test.dll
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\bin\Debug\net8.0\Yandex test.pdb
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\Yandex test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\Yandex test.AssemblyInfoInputs.cache
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\Yandex test.AssemblyInfo.cs
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\Yandex test.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\Yandex test.dll
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\refint\Yandex test.dll
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\Yandex test.pdb
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\Yandex test.genruntimeconfig.cache
+C:\Users\HYPERPC\Documents\VS Project\Yandex test\Yandex test\obj\Debug\net8.0\ref\Yandex test.dll
