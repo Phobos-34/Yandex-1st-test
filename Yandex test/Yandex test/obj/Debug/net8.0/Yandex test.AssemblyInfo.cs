@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yandex test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75468f3d6369e61e88b7f4dccd4ceb1dfa514cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yandex test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yandex test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

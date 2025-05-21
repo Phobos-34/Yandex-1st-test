@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HYPERPC\\Documents\\VS Project\\Yandex test\\",
+  "WorkspaceRootPath": "C:\\Users\\HYPERPC\\Documents\\GitHub\\Yandex-1st-test\\Yandex test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7784B661-9AC2-4DCF-8608-02A643068CF7}|Yandex test\\Yandex test.csproj|c:\\users\\hyperpc\\documents\\vs project\\yandex test\\yandex test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7784B661-9AC2-4DCF-8608-02A643068CF7}|Yandex test\\Yandex test.csproj|c:\\users\\hyperpc\\documents\\github\\yandex-1st-test\\yandex test\\yandex test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7784B661-9AC2-4DCF-8608-02A643068CF7}|Yandex test\\Yandex test.csproj|solutionrelative:yandex test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7784B661-9AC2-4DCF-8608-02A643068CF7}|Yandex test\\Yandex test.csproj|c:\\users\\hyperpc\\documents\\vs project\\yandex test\\yandex test\\finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7784B661-9AC2-4DCF-8608-02A643068CF7}|Yandex test\\Yandex test.csproj|c:\\users\\hyperpc\\documents\\github\\yandex-1st-test\\yandex test\\yandex test\\finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7784B661-9AC2-4DCF-8608-02A643068CF7}|Yandex test\\Yandex test.csproj|solutionrelative:yandex test\\finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Finder.cs",
-              "DocumentMoniker": "C:\\Users\\HYPERPC\\Documents\\VS Project\\Yandex test\\Yandex test\\Finder.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\Documents\\GitHub\\Yandex-1st-test\\Yandex test\\Yandex test\\Finder.cs",
               "RelativeDocumentMoniker": "Yandex test\\Finder.cs",
-              "ToolTip": "C:\\Users\\HYPERPC\\Documents\\VS Project\\Yandex test\\Yandex test\\Finder.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\Documents\\GitHub\\Yandex-1st-test\\Yandex test\\Yandex test\\Finder.cs",
               "RelativeToolTip": "Yandex test\\Finder.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:30:28.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:30:28.61Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HYPERPC\\Documents\\VS Project\\Yandex test\\Yandex test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\Documents\\GitHub\\Yandex-1st-test\\Yandex test\\Yandex test\\Program.cs",
               "RelativeDocumentMoniker": "Yandex test\\Program.cs",
-              "ToolTip": "C:\\Users\\HYPERPC\\Documents\\VS Project\\Yandex test\\Yandex test\\Program.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\Documents\\GitHub\\Yandex-1st-test\\Yandex test\\Yandex test\\Program.cs",
               "RelativeToolTip": "Yandex test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T11:06:39.213Z",
               "EditorCaption": ""
